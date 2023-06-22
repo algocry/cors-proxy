@@ -1,13 +1,13 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cors forwarding script for replit with nodejs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "0x0is1",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
